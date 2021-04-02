@@ -11,6 +11,12 @@
             "pageName": "pi-chart",
             "title": "大林廠方塊圖",
             "url": "http://ksvpivision.cpc.com.tw/PIVision/PB/#/PBDisplays/20275?mode=kiosk&HideToolbar"
+        },
+        {
+            "icon": "",
+            "pageName": "pi-chart",
+            "title": "內嵌測試",
+            "url": "http://localhost:8080/top-menu/top-menu-try"
         }
     ],
     "comments":[
