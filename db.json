@@ -1,12 +1,28 @@
 [{
-    "icon": "",
-    "pageName": "pi-chart",
-    "title": "大林廠煉製動態全貌",
-    "url": "http://ksvpivision.cpc.com.tw/PIVision/PB/#/PBDisplays/20286?mode=kiosk&HideToolbar"
-},
-{
-    "icon": "",
-    "pageName": "pi-chart",
-    "title": "大林廠方塊圖",
-    "url": "http://ksvpivision.cpc.com.tw/PIVision/PB/#/PBDisplays/20275?mode=kiosk&HideToolbar"
+    "post": [
+        {
+            "icon": "",
+            "pageName": "pi-chart",
+            "title": "大林廠煉製動態全貌",
+            "url": "http://ksvpivision.cpc.com.tw/PIVision/PB/#/PBDisplays/20286?mode=kiosk&HideToolbar"
+        },
+        {
+            "icon": "",
+            "pageName": "pi-chart",
+            "title": "大林廠方塊圖",
+            "url": "http://ksvpivision.cpc.com.tw/PIVision/PB/#/PBDisplays/20275?mode=kiosk&HideToolbar"
+        }
+    ],
+    "comments":[
+        {
+            "id":1,
+            "body":"some comment",
+            "postId":1
+        },
+        {
+            "id":2,
+            "body":"some comment",
+            "postId":1
+        }
+    ]
 }]
