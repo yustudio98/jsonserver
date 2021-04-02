@@ -1,14 +1,12 @@
-[
-    {
-    id: 1,
-    title: "Post 1"
-    },
-    {
-    id: 2,
-    title: "Post 2"
-    },
-    {
-    id: 3,
-    title: "Post 3"
-    }
-]
+[{
+    "icon": "",
+    "pageName": "pi-chart",
+    "title": "大林廠煉製動態全貌",
+    "url": "http://ksvpivision.cpc.com.tw/PIVision/PB/#/PBDisplays/20286?mode=kiosk&HideToolbar"
+},
+{
+    "icon": "",
+    "pageName": "pi-chart",
+    "title": "大林廠方塊圖",
+    "url": "http://ksvpivision.cpc.com.tw/PIVision/PB/#/PBDisplays/20275?mode=kiosk&HideToolbar"
+}]
