@@ -19,16 +19,54 @@
             "url": "http://localhost:8080/top-menu/top-menu-try"
         }
     ],
-    "comments":[
+    "comments": [
         {
-            "id":1,
-            "body":"some comment",
-            "postId":1
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
         },
         {
-            "id":2,
-            "body":"some comment",
-            "postId":1
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "users": [
+        {
+            "userId": 1,
+            "account": "296198",
+            "password": "296198",
+            "name": "林澄宇",
+            "active": true,
+            "userRoles": [],
+            "modifierId": null,
+            "modificationDate": null,
+            "creatorId": null,
+            "creationDate": null
+        },
+        {
+            "userId": 2,
+            "account": "691160",
+            "password": "691160",
+            "name": "郭嘉伶",
+            "active": true,
+            "userRoles": [],
+            "modifierId": null,
+            "modificationDate": null,
+            "creatorId": null,
+            "creationDate": null
+        },
+        {
+            "userId": 3,
+            "account": "296597",
+            "password": "296597",
+            "name": "歐庭瑋",
+            "active": false,
+            "userRoles": [],
+            "modifierId": null,
+            "modificationDate": null,
+            "creatorId": null,
+            "creationDate": null
         }
     ]
 }
